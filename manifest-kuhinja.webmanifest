@@ -1,0 +1,26 @@
+{
+  "id": "/zdravorazum/kuhinja",
+  "name": "ZdravoRazum · Kuhinja",
+  "short_name": "Kuhinja",
+  "description": "Portal za kuhinju — ZdravoRazum",
+  "lang": "sr",
+  "start_url": "/zdravorazum/kuhinja",
+  "scope": "/zdravorazum/kuhinja",
+  "display": "standalone",
+  "orientation": "any",
+  "theme_color": "#1B1B1B",
+  "background_color": "#1B1B1B",
+  "icons": [
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "apple-touch-icon.png",
+      "sizes": "180x180",
+      "type": "image/png"
+    }
+  ]
+}
